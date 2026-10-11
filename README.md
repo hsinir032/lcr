@@ -101,6 +101,11 @@ This project was developed to combine banking liquidity risk knowledge with prac
 - Data visualization with matplotlib
 - Git and GitHub version control
 
+##PowerBI Dashboard
+
+The PowerBI report providesa visual overview of LCR by scenario, the 100% reference threshold, liquidity cash flows and HQLA composition.
+[View PowerBI Dashboard (PDF)](LCR_PowerBI.pdf)
+
 ##Disclaimer
 
 This is an educational portfolio project inspired by banking liquidity risk concepts.
